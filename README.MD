@@ -15,3 +15,8 @@ c) Se a letra for igual a “E”, pinte-a de verde.
 
 # Atividade 2:
 
+Unindo pontos
+
+<img src=https://raw.githubusercontent.com/mchavesferreira/desplugada/refs/heads/main/unindopontos.jpg>
+
+# Ativdade 3:
