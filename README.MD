@@ -1,6 +1,6 @@
 
 
-## Atividade 1:
+## Atividade letra e cor:
 
 O quadro abaixo contém diversas letras. Faça a pintura de cada uma delas seguindo as condições a seguir:
 
@@ -13,13 +13,13 @@ c) Se a letra for igual a “E”, pinte-a de verde.
 
 <img src=imagem/letras.png>
 
-# Atividade 2:
+# Atividade unindo pontos:
 
 Unindo pontos
 
 <img src=https://raw.githubusercontent.com/mchavesferreira/desplugada/refs/heads/main/unindopontos.jpg>
 
-# Ativdade 3:
+# Ativdade pixes em preto e branco:
 
 pixels pretos
 
@@ -29,13 +29,23 @@ definido o código de cada cor: cor amarela apresenta-se primeiro o número de e
 
 <img src=imagem/imagemcores.png>
 
+### obtenha imagems pixeladas
 
+https://www.resizepixel.com
 
+ou PIXIL ART.  https://www.pixilart.com
+
+### Converter imagem em dados
+
+https://hexed.it/
+
+### dados EXIF de fotos
+https://www.verexif.com/pt/ver.php
 
 
 # Links interessantes
 
-PIXIL ART.  https://www.pixilart.com
+
 
 
 Atividade Desplugas: tema figuras, matrizes,
@@ -48,9 +58,7 @@ https://www.browserling.com/tools/text-to-hex
 Meta dados de pdf
 https://products.aspose.app/pdf/pt/metadata
 
-dados EXIF de fotos
-https://www.verexif.com/pt/ver.php
 
-Converter imagem em dados
-https://hexed.it/
+
+
 
