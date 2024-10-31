@@ -11,7 +11,7 @@ b) Se a letra for vogal e diferente de “E”, pinte-a de azul.
 c) Se a letra for igual a “E”, pinte-a de verde.
 
 
-<img src=imagens/letras.png>
+<img src=imagem/letras.png>
 
 # Atividade 2:
 
