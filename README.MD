@@ -21,10 +21,22 @@ Unindo pontos
 
 # Ativdade 3:
 
+pixels pretos
+
+<img src=imagem/pixelspreto.png>
+
+definido o código de cada cor: cor amarela apresenta-se primeiro o número de elementos a serem pintados seguidos da cor entre parentêses nº (A).
+
+<img src=imagem/imagemcores.png>
+
+
 
 
 
 # Links interessantes
+
+PIXIL ART.  https://www.pixilart.com
+
 
 Atividade Desplugas: tema figuras, matrizes,
 arquivos.
