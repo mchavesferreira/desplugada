@@ -23,7 +23,7 @@ Unindo pontos
 
 pixels pretos
 
-<img src=imagem/pixelspreto.png>
+<img src=imagem/pixelpretos.png>
 
 definido o código de cada cor: cor amarela apresenta-se primeiro o número de elementos a serem pintados seguidos da cor entre parentêses nº (A).
 
